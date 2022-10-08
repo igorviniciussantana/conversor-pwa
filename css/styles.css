@@ -82,6 +82,7 @@ button {
 button:hover {
   background-color: #b0b8c0;
   transition: 500ms;
+  letter-spacing: 2px;
 }
 
 select{
