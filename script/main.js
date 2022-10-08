@@ -21,12 +21,12 @@ let values = select.options[select.selectedIndex].value;
 
 if(values == "dolar"){
 
-let convert = valor.value * 5.21;
+let convert = valor.value * 5.20;
 result.textContent = convert
 
 }else{
 
-    let convert = valor.value * 0.00076;
+    let convert = valor.value * 0.00073;
     result.textContent = convert
 
 
